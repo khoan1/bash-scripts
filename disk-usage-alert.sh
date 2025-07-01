@@ -1,6 +1,8 @@
 #!/bin/bash
 # disk-usage-alert.sh
 
+# This script checks current disk usage and emails alert if usage passed threshold
+
 # Configurable variables
 THRESHOLD=80           # Percentage usage threshold (e.g., 80%)
 PARTITION="/"          # Partition to check
