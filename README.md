@@ -1,6 +1,6 @@
 # Bash Scripts
 
-This repository contains a collection of Bash scripts for common Linux system administration tasks.
+This repository contains Bash scripts for common Linux system administration tasks.
 
 - **cron-status-checker.sh** – Checks for errored or failed cron jobs in syslog.
 - **disk-usage-alert.sh** – Sends an alert if disk usage exceeds a defined threshold.
